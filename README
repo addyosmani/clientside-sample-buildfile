@@ -1,0 +1,1 @@
+A basic client-side build file for validating your JavaScript code using JSLint or JSHint, concatenating your JS or CSS files and finally minifying both for production use.
